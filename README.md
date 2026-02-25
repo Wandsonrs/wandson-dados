@@ -1,5 +1,5 @@
 # wandson-dados
-# Olá, eu sou o Wandson Rafael! 📊
+# Olá, eu sou o Wandson Santos! 📊
 
 Sou um Analista de Dados com sólida base quantitativa e mestre em Economia. Meu foco é unir métodos estatísticos rigorosos e visão de negócios para extrair insights acionáveis de informações complexas. Atualmente, estou iniciando meu doutorado em Economia na Universidade Estadual de Maringá (UEM), buscando aprofundar ainda mais a aplicação de modelos econométricos e preditivos.
 
